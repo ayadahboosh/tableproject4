@@ -1,0 +1,25 @@
+  table, th,td {  
+    border: 2px ridge black; 
+    text-align: center;
+    padding: 40px;
+    margin-left: 350px;
+    margin-top: 70px;
+    font-size: medium;
+   }
+
+       
+
+   table{
+    
+        width: 50%;
+height: 10%;
+color:red;
+   }
+
+   body{
+    background-color: rgba(206, 173, 173, 0.311);
+   }
+   
+   th{
+    background: black;
+   }
